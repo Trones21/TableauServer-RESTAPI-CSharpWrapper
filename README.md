@@ -1,5 +1,6 @@
 # TableauServer-RESTAPI-CSharpWrapper
-(Eventually will be a) C# Wrapper for the Tableau Server REST API
+(Eventually will be a) C# Wrapper for the Tableau Server REST API.
+
 I just need to grab the xsd and generate the REST XD of the classes.
 
 The example script, GetADGroupandUserInfo, was actually the reason I started this. Therefore, I have only created classes corresponding to the endpoints I needed.
